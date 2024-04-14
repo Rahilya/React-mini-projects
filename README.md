@@ -1,2 +1,3 @@
 # React-mini-projects
-Mini projects
+
+Mini projects made using react
